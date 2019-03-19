@@ -10,4 +10,4 @@ I _really_ like working in this format.  It is very **_fluid_** and I can focus 
 
 Check out where I [work](www.mssu.edu "Moso").
 
-Proud to be a ![SophomoreDay_LOGO.png]({{site.baseurl}}/_posts/SophomoreDay_LOGO.png)
+Proud to be a ![SophomoreDay_LOGO.png](SophomoreDay_LOGO.png)
