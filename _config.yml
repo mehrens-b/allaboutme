@@ -1,4 +1,5 @@
 name: Brian Mehrens, Videographer MSSU
+baseurl: /mypage
 permalink: /blog/:year/:month/:day/:title
 title: Brian Mehrens Webpage
 description: Basic Personal Site
