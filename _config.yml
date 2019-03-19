@@ -2,4 +2,4 @@ name: Brian Mehrens, Videographer MSSU
 permalink: /blog/:year/:month/:day/:title
 title: Brian Mehrens Webpage
 description: Basic Personal Site
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
