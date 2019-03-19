@@ -2,7 +2,7 @@
 published: false
 layout: post
 title: Brian's First Post from Prose.io
-date: 2014-04-30T00:00:00.000Z
+date: 2014-04-30
 ---
 ## This is my first pose from Prose.io
 
