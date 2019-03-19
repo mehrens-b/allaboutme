@@ -9,4 +9,4 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 Just updating this from Prose.
 
-Adding some _style_ to this.  And then an image: ![SophomoreDay_LOGO.png]({{site.baseurl}}/_posts/SophomoreDay_LOGO.png)
+Adding some _style_ to this.  And then an image: ![SophomoreDay_LOGO.png](SophomoreDay_LOGO.png)
