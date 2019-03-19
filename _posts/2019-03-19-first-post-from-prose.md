@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 title: Brian's First Post from Prose.io
-date: 2014-04-30
+date: 2019-03-19
 ---
 ## This is my first pose from Prose.io
 
