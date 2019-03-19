@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hank Quinlan, Horrible Cop, Launches Site'
+title: 'Brians first post from Github'
 date: 2014-04-30
 published: true
 ---
