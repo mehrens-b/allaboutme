@@ -1,2 +1,4 @@
 name: Brian Mehrens, Videographer MSSU
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-time-machine
