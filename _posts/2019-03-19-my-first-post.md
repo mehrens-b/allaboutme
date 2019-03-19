@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Brians First Post
-date: {}
+title: 'Hank Quinlan, Horrible Cop, Launches Site'
+date: 2014-04-30T00:00:00.000Z
 published: true
 ---
 
