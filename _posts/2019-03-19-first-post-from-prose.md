@@ -11,3 +11,6 @@ I _really_ like working in this format.  It is very **_fluid_** and I can focus 
 Check out where I [work](https://www.mssu.edu "Moso").
 
 Proud to be a ![SophomoreDay_LOGO.png](SophomoreDay_LOGO.png)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxNDUzODQ4MDJdfQ==
+-->
