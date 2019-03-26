@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Created in prose
 ---
 ## A New Post Created in Prose
 
