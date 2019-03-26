@@ -8,11 +8,11 @@ date: 2019-03-19
 
 I _really_ like working in this format.  It is very **_fluid_** and I can focus on my writing and less on layout.
 
-I actually just changed to stackedit for testing.
+I actually just changed to stackedit for testing.  Just added another test line.
 
 Check out where I [work](https://www.mssu.edu "Moso").
 
 Proud to be a ![SophomoreDay_LOGO.png](SophomoreDay_LOGO.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkxNzQ1MDhdfQ==
+eyJoaXN0b3J5IjpbMTcwOTI5ODE4MywtMTQyOTE3NDUwOF19
 -->
