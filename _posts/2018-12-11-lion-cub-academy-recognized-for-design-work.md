@@ -2,7 +2,7 @@
 layout: post
 date: Dec 11, 2018
 title: Magazine
-summary: _The American School and University_ magazine selected Missouri Southern’s Lion Cub Academy as one of the Outstanding Design recipients for the 2018 Educational Interiors Showcase.
+summary: The American School and University magazine selected Missouri Southern’s Lion Cub Academy as one of the Outstanding Design recipients for the 2018 Educational Interiors Showcase.
 image-header: https://crossroads.mssu.edu/wp-content/uploads/2018/12/36254262106_97ac0a000d_z.jpg
 ---
 _The American School and University_ magazine selected Missouri Southern’s Lion Cub Academy as one of the Outstanding Design recipients for the 2018 Educational Interiors Showcase.
