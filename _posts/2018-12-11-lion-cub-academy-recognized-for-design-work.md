@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-12-11T11:48:37
+date: 2018-12-11
 title: Lion Cub Academy recognized for design work
 summary: The American School and University magazine selected Missouri Southern’s Lion Cub Academy as one of the Outstanding Design recipients for &#8230;
 
