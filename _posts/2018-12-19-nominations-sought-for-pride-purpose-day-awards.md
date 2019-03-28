@@ -1,5 +1,10 @@
 ---
-layout: default
+layout: post
+date: 2018-12-19T11:14:10
+title: Nominations sought for Pride &#038; Purpose Day awards
+summary: Two deserving supporters of Missouri Southern will be recognized during the second annual Pride &amp; Purpose Day – to be &#8230;
+
+image-header: http://crossroads.mssu.edu/wp-content/uploads/2018/12/PridePurpose2.jpg
 ---
 Two deserving supporters of Missouri Southern will be recognized during the second annual Pride & Purpose Day – to be observed at the Lions’ home basketball game vs. Fort Hays on Saturday, Feb. 9.
 
