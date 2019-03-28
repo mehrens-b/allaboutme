@@ -1,5 +1,10 @@
 ---
-layout: default
+layout: post
+date: 2018-12-19T13:13:24
+title: Men&#8217;s Basketball Ranked Nationally In Both D2 Polls
+summary: The Missouri Southern men&#8217;s basketball team was already ranked last week in the media poll and now are ranked in &#8230;
+
+image-header: http://crossroads.mssu.edu/wp-content/uploads/2018/12/basketball.jpg
 ---
 The Missouri Southern men’s basketball team was already ranked last week in the media poll and now are ranked in both polls as the Lions come in at No. 22 in the National Association of Basketball Coaches poll and no. 15 in the D2SIDA media poll this week.
 
