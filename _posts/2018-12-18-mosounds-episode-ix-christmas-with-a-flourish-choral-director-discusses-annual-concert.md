@@ -1,5 +1,10 @@
 ---
-layout: default
+layout: post
+date: 2018-12-18T11:37:35
+title: MOSOunds Episode IX: Christmas with a Flourish – Choral director discusses annual concert
+summary: Host: There are certain events and activities that have become tradition during the holidays at Missouri Southern. The lighting of the &#8230;
+
+image-header: http://crossroads.mssu.edu/wp-content/uploads/2018/12/choral-flourish.jpg
 ---
 [http://crossroads.mssu.edu/wp-content/uploads/2018/12/Choral-Flourish-2018-Podcast\_20181207\_1020\_1.mp3](http://crossroads.mssu.edu/wp-content/uploads/2018/12/Choral-Flourish-2018-Podcast_20181207_1020_1.mp3)
 
