@@ -1,5 +1,10 @@
 ---
-layout: default
+layout: post
+date: 2018-12-19T11:39:13
+title: Comm grad serves as assistant editor on ‘Grey’s Anatomy’
+summary: Kathleen Latlip likens her position to being a librarian, of sorts. The items that come to her must be carefully &#8230;
+
+image-header: http://crossroads.mssu.edu/wp-content/uploads/2018/12/greys-anatomy.jpg
 ---
 Kathleen Latlip likens her position to being a librarian, of sorts.
 
